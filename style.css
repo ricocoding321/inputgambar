@@ -1,1 +1,22 @@
-
+body {
+  font-family: arial, sans-serif;
+  background: #f5f5f5;
+}
+.container{
+  background: white;
+  max-widht: 400px;
+  margin: 50px auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px #0001;
+  padding: 20px;
+  text-align: center;
+}
+input[type="file"]{
+  margir: 16px 0; 
+}
+img, video {
+  margin-top: 12px;
+  max-widht: 100%;
+  border-radius: 8px;
+  box-xhadow: 0 2px 8px #0001;
+}
